@@ -1,0 +1,46 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    padding-top: 120px;
+}
+button{
+    text-align: center;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    border: solid;
+    border-color: blue;
+    text-align: center;
+    width: 100px;
+    
+}
+
+.but{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.but2{
+    text-align: center;
+    margin-top: -10px;
+    
+}
+
+body{
+    background-image: url(ChatGPT\ Image\ Apr\ 8\,\ 2025\,\ 01_58_11\ PM.png) ;
+    background-size: cover;
+    
+    
+   
+}
+
+#auto{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    padding-top: 20px;
+}
